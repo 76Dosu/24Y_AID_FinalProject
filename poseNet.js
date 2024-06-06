@@ -1,7 +1,6 @@
 let video;
 let poseNet;
 let poses = [];
-let catmask;
 
 function setup() {
   createCanvas(640, 480);
@@ -17,8 +16,6 @@ function setup() {
   });
   // Hide the video element, and just show the canvas
   video.hide();
-  
-  catmask = loadImage('catmask.png')
 }
 
 function modelReady() {
@@ -35,20 +32,13 @@ function draw() {
   if(poses.length > 0){
     let wx = poses[0].pose.rightWrist.x;
     let wy = poses[0].pose.rightWrist.y;
-    
-    let nx = poses[0].pose.nose.x;
-    let ny = poses[0].pose.nose.y;
-    
+
     if(wx > width/2){
       fill('green')
     }else{
       fill('blue')
     }
     circle(wx, wy, 100)
-    
-    imageMode(CENTER)
-    image(catmask, nx, ny-50, 150, 150)
-    imageMode(CORNER)
   }
 }
 
@@ -85,3 +75,4 @@ function drawSkeleton() {
     }
   }
 }
+
