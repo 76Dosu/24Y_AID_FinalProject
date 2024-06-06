@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Final Project</title>
+    <link rel="stylesheet" href="/style.css">
 
     <!-- TM -->
     <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@latest/dist/tf.min.js"></script>
@@ -19,15 +20,61 @@
 
 </head>
 <body>
+
+    <div class="wrapper">
+        <div class="header">
+            <div class="logo"></div>
+            <div class="navigtion"></div>
+            <div class="info-util">
+                <img src="/images/notifications_none.png" alt="" class="alert">
+                <img src="/images/person_outline.png" alt="" class="alert">
+            </div>
+        </div>    
+        <div class="contents">
+
+            <!-- util -->
+            <div class="util">
+                <div class="search">
+                    <img src="/images/search.png" alt="">
+                </div>
+                <div class="login">로그아웃</div>   
+            </div>
+
+            <!-- contents -->
+            <div class="container">
+
+                <div class="title">
+                    <div class="user-name">김희찬님</div>
+                    <div class="sub-title">안녕하세요! 좋은 하루 보내세요!</div>
+                </div>
+
+                <div class="btn-frame">
+                    <button type="button" class="start-button" onclick="init()">작업시작하기</button>
+                    <button type="button" class="productivity-button">생산성 확인해보기</button>
+                </div>
+
+                <div class="working-hour">
+                    <div class="working-title">지금까지 얼마나 작업했나요?</div>
+                    <div class="time-container">
+                        <div class="working-time-frame box-shadow">
+                            <p class="working-time-title">작업시간</p>
+                            <p class="working">0초</p>
+                        </div>
+                        <div class="resting-time-frame box-shadow">
+                            <p class="resting-time-title">휴게시간</p>
+                            <p class="resting">0초</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
     <!-- 티처블 머신 : 근로여부 판단 웹캠 -->
-    <div>Teachable Machine Image Model</div>
-    <button type="button" onclick="init()">Start</button>
     <div id="webcam-container"></div>
     <div id="label-container"></div>
-    <div id="time-container">
-        <p class="working"></p>
-        <p class="resting"></p>
-    </div>
 
     <script src="/teachableMachine.js"></script>
     <script src="/functions.js"></script>

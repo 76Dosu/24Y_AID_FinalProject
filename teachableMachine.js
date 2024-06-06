@@ -73,6 +73,6 @@ async function AID_Custom() {
 
     // let test = moment(workingCount).format('h:mm:ss');
     // console.log(test)
-    $('#time-container > p:nth-child(1)').text("근무시간 : " + workingCount + "초");
-    $('#time-container > p:nth-child(2)').text("휴식시간 : " + restingCount + "초");
+    $('.working-time-frame .working').text(workingCount + "초");
+    $('.resting-time-frame .resting').text(restingCount + "초");
 }
