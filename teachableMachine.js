@@ -1,13 +1,16 @@
 // More API functions here:
 // https://github.com/googlecreativelab/teachablemachine-community/tree/master/libraries/image
-    
+
 // the link to your model provided by Teachable Machine export panel
-const URL = "https://teachablemachine.withgoogle.com/models/NuIqQdHtp/";
+const URL = "https://teachablemachine.withgoogle.com/models/yHLBEPJhK/";
 
 let model, webcam, labelContainer, maxPredictions;
 
-let workingCount = 0, restingCount = 0;
-let workingHour_Bool, restingHour_Bool;
+// 티처블머신 클래스 확률
+let workingTime_Per = 0; let restingTime_Per = 0; let drinkTime_Per = 0;
+
+let workingCount = 0; let restingCount = 0; let drinkCount = 0; //front 반영 텍스트
+let isWorking; let isResting; let isDrinking = false; //클래스 여부
 
 // Load the image model and setup the webcam
 async function init() {
@@ -34,17 +37,17 @@ async function init() {
     for (let i = 0; i < maxPredictions; i++) { // and class labels
         labelContainer.appendChild(document.createElement("div"));
     }
-
-    // ############### Start AID Custom ################
-    setInterval(AID_Custom,1000);
-}
     
+    setInterval(AID_Custom, 1000);    
+}
+
 async function loop() {
     webcam.update(); // update the webcam frame
     await predict();
-    window.requestAnimationFrame(loop);    
-}
+    window.requestAnimationFrame(loop);
 
+    timeJudgment()
+}
 
 // run the webcam image through the image model
 async function predict() {
@@ -59,20 +62,12 @@ async function predict() {
 
 // ############### AID Custom ################
 async function AID_Custom() {
-    let workingHours_Text = $('#label-container > div:first-child').text()
-    let workingHours = Number(workingHours_Text.substr(6,9));
 
-    if (0.5 <= workingHours) {
-        workingHour_Bool = true;
-        IncreaseCount()
-        
-    } else {
-        workingHour_Bool = false;
-        DecreaseCount();
+    if (isWorking === true) {
+        workingCount_Increase()
     }
-
-    // let test = moment(workingCount).format('h:mm:ss');
-    // console.log(test)
-    $('.working-time-frame .working').text(workingCount + "초");
-    $('.resting-time-frame .resting').text(restingCount + "초");
+    
+    if (isResting === true) {
+        restingCount_Increase();
+    }
 }

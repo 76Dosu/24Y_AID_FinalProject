@@ -1,9 +1,54 @@
 // 근무시간 증가함수
-function IncreaseCount() {
+function workingCount_Increase() {
     workingCount++;
+    $('.working-time-frame .working').text(workingCount + "초");
 }
 
 //휴식시간 증가함수
-function DecreaseCount() {
+function restingCount_Increase() {
     restingCount++;
+    $('.resting-time-frame .resting').text(restingCount + "초");
+}
+
+//물 섭취 증가 함수
+function drinkCount_Increase() {
+    drinkCount++;
+    $('.drinking-time-frame .drinking').text(drinkCount + "회");
+}
+
+//텍스트 받아오기
+function timeJudgment() {
+
+    // 근무 시간 판단
+    let workingHours_Text = $('#label-container > div:first-child').text()
+    let workingHours = Number(workingHours_Text.substr(6, 9));
+    workingTime_Per = workingHours;
+
+    if (0.4 <= workingTime_Per) {
+        isWorking = true;
+        isResting = false;
+        isDrinking = false;
+    }
+
+    let restingHours_Text = $('#label-container > div:nth-child(2)').text()
+    let restingHours = Number(restingHours_Text.substr(6, 9));
+    restingTime_Per = restingHours;
+
+    if (0.4 <= restingTime_Per) {
+        isResting = true;
+        isWorking = false;
+        isDrinking = false;
+    }
+
+    // 물 섭취
+    let waterDrink_Text = $('#label-container > div:last-child').text()
+    let waterDrink = Number(waterDrink_Text.substr(6, 9));
+    drinkTime_Per = waterDrink;
+
+    if (drinkTime_Per >= 0.95 && isDrinking == false) {
+        isDrinking = true;
+        drinkCount_Increase();
+
+        console.log(isDrinking)
+    }
 }
