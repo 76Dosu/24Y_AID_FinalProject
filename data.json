@@ -1,1502 +1,1202 @@
 [
   {
-    "WorkHours": 6.24724071308418,
-    "BreakHours": 0.753871332351134,
-    "Productivity": 56.0517623772239
+    "BreakHoursRatio": 0.11,
+    "Productivity": 83
   },
   {
-    "WorkHours": 9.7042858384595,
-    "BreakHours": 3.03299547437661,
-    "Productivity": 77.9135168514002
+    "BreakHoursRatio": 0.15,
+    "Productivity": 85
   },
   {
-    "WorkHours": 8.39196365086843,
-    "BreakHours": 2.65399248066078,
-    "Productivity": 70.1145223056076
+    "BreakHoursRatio": 0.15,
+    "Productivity": 83
   },
   {
-    "WorkHours": 7.59195090518222,
-    "BreakHours": 2.69492969758603,
-    "Productivity": 57.2686489517952
+    "BreakHoursRatio": 0.16,
+    "Productivity": 81
   },
   {
-    "WorkHours": 4.93611184265462,
-    "BreakHours": 1.92723839676039,
-    "Productivity": 36.9566799160083
+    "BreakHoursRatio": 0.17,
+    "Productivity": 82
   },
   {
-    "WorkHours": 4.93596712201722,
-    "BreakHours": 2.4203062242734,
-    "Productivity": 31.2687506358609
+    "BreakHoursRatio": 0.2,
+    "Productivity": 89
   },
   {
-    "WorkHours": 4.3485016730092,
-    "BreakHours": 1.33290333864611,
-    "Productivity": 46.6441257014434
+    "BreakHoursRatio": 0.15,
+    "Productivity": 84
   },
   {
-    "WorkHours": 9.19705687464961,
-    "BreakHours": 2.10780530733571,
-    "Productivity": 81.6078599696762
+    "BreakHoursRatio": 0.13,
+    "Productivity": 87
   },
   {
-    "WorkHours": 7.60669007045925,
-    "BreakHours": 3.18016297981128,
-    "Productivity": 56.6674582655732
+    "BreakHoursRatio": 0.18,
+    "Productivity": 90
   },
   {
-    "WorkHours": 8.24843546677627,
-    "BreakHours": 1.71842048542041,
-    "Productivity": 74.9621517943318
+    "BreakHoursRatio": 0.13,
+    "Productivity": 93
   },
   {
-    "WorkHours": 4.12350696577481,
-    "BreakHours": 1.13639138099978,
-    "Productivity": 34.9914725042951
+    "BreakHoursRatio": 0.14,
+    "Productivity": 80
   },
   {
-    "WorkHours": 9.81945911297197,
-    "BreakHours": 1.29010560279404,
-    "Productivity": 90.6392151180833
+    "BreakHoursRatio": 0.11,
+    "Productivity": 95
   },
   {
-    "WorkHours": 8.99465584480253,
-    "BreakHours": 0.990674069453027,
-    "Productivity": 88.0640216009773
+    "BreakHoursRatio": 0.1,
+    "Productivity": 92
   },
   {
-    "WorkHours": 5.27403466406966,
-    "BreakHours": 2.5582199097362,
-    "Productivity": 43.7367856422521
+    "BreakHoursRatio": 0.2,
+    "Productivity": 81
   },
   {
-    "WorkHours": 5.0909498032426,
-    "BreakHours": 2.2114681123388,
-    "Productivity": 37.1996517326794
+    "BreakHoursRatio": 0.18,
+    "Productivity": 97
   },
   {
-    "WorkHours": 5.1004270591206,
-    "BreakHours": 1.92994897519617,
-    "Productivity": 38.4754345120018
+    "BreakHoursRatio": 0.17,
+    "Productivity": 98
   },
   {
-    "WorkHours": 5.82545345775723,
-    "BreakHours": 1.53547988341497,
-    "Productivity": 49.2018766747392
+    "BreakHoursRatio": 0.14,
+    "Productivity": 81
   },
   {
-    "WorkHours": 7.14853858979343,
-    "BreakHours": 1.21037431274673,
-    "Productivity": 53.9239085105227
+    "BreakHoursRatio": 0.12,
+    "Productivity": 85
   },
   {
-    "WorkHours": 6.59167011185269,
-    "BreakHours": 1.07163956260992,
-    "Productivity": 52.9825479944846
+    "BreakHoursRatio": 0.12,
+    "Productivity": 96
   },
   {
-    "WorkHours": 5.74737484118825,
-    "BreakHours": 1.15003337895772,
-    "Productivity": 58.5579528543165
+    "BreakHoursRatio": 0.13,
+    "Productivity": 94
   },
   {
-    "WorkHours": 7.67111736833428,
-    "BreakHours": 2.4523846195452,
-    "Productivity": 72.6740891531232
+    "BreakHoursRatio": 0.15,
+    "Productivity": 83
   },
   {
-    "WorkHours": 4.83696316391225,
-    "BreakHours": 1.86628597846406,
-    "Productivity": 37.7930215490203
+    "BreakHoursRatio": 0.17,
+    "Productivity": 84
   },
   {
-    "WorkHours": 5.75286789121131,
-    "BreakHours": 2.09449810527368,
-    "Productivity": 49.9389732010235
+    "BreakHoursRatio": 0.17,
+    "Productivity": 87
   },
   {
-    "WorkHours": 6.19817105976215,
-    "BreakHours": 1.31384837745493,
-    "Productivity": 56.9687194830645
+    "BreakHoursRatio": 0.13,
+    "Productivity": 89
   },
   {
-    "WorkHours": 6.73641990530222,
-    "BreakHours": 3.24659138394683,
-    "Productivity": 66.5256461755642
+    "BreakHoursRatio": 0.2,
+    "Productivity": 92
   },
   {
-    "WorkHours": 8.71105576835808,
-    "BreakHours": 3.44225005389033,
-    "Productivity": 75.497181971302
+    "BreakHoursRatio": 0.17,
+    "Productivity": 87
   },
   {
-    "WorkHours": 5.19804269295016,
-    "BreakHours": 1.67242668208069,
-    "Productivity": 42.9787055616943
+    "BreakHoursRatio": 0.16,
+    "Productivity": 89
   },
   {
-    "WorkHours": 7.08540663048167,
-    "BreakHours": 2.442256755597,
-    "Productivity": 53.8650803238296
+    "BreakHoursRatio": 0.16,
+    "Productivity": 94
   },
   {
-    "WorkHours": 7.55448741317225,
-    "BreakHours": 2.02339409738804,
-    "Productivity": 57.3956720434945
+    "BreakHoursRatio": 0.14,
+    "Productivity": 80
   },
   {
-    "WorkHours": 4.27870247631999,
-    "BreakHours": 0.85185712692792,
-    "Productivity": 39.5450573078964
+    "BreakHoursRatio": 0.12,
+    "Productivity": 85
   },
   {
-    "WorkHours": 7.64526911140863,
-    "BreakHours": 1.85312968098002,
-    "Productivity": 63.4052889827647
+    "BreakHoursRatio": 0.14,
+    "Productivity": 94
   },
   {
-    "WorkHours": 5.02314474212375,
-    "BreakHours": 2.02502275625959,
-    "Productivity": 32.9950650919512
+    "BreakHoursRatio": 0.18,
+    "Productivity": 97
   },
   {
-    "WorkHours": 4.39030955791168,
-    "BreakHours": 0.464307704072332,
-    "Productivity": 38.3486926375425
+    "BreakHoursRatio": 0.1,
+    "Productivity": 90
   },
   {
-    "WorkHours": 9.69331322352,
-    "BreakHours": 1.41938270679783,
-    "Productivity": 84.4284786831389
+    "BreakHoursRatio": 0.11,
+    "Productivity": 90
   },
   {
-    "WorkHours": 9.79379219844736,
-    "BreakHours": 1.15959534646098,
-    "Productivity": 100.575653427532
+    "BreakHoursRatio": 0.1,
+    "Productivity": 82
   },
   {
-    "WorkHours": 8.85038408869877,
-    "BreakHours": 1.02922462646811,
-    "Productivity": 87.7659165393944
+    "BreakHoursRatio": 0.1,
+    "Productivity": 88
   },
   {
-    "WorkHours": 5.82768261504022,
-    "BreakHours": 2.57690937082126,
-    "Productivity": 45.3524160897128
+    "BreakHoursRatio": 0.19,
+    "Productivity": 90
   },
   {
-    "WorkHours": 4.5860326840383,
-    "BreakHours": 1.74940244500272,
-    "Productivity": 44.5130353098196
+    "BreakHoursRatio": 0.17,
+    "Productivity": 84
   },
   {
-    "WorkHours": 8.10539815907294,
-    "BreakHours": 2.34788688845328,
-    "Productivity": 69.7013886867011
+    "BreakHoursRatio": 0.15,
+    "Productivity": 85
   },
   {
-    "WorkHours": 6.64091496243761,
-    "BreakHours": 0.923974832765665,
-    "Productivity": 57.4828544539064
+    "BreakHoursRatio": 0.11,
+    "Productivity": 87
   },
   {
-    "WorkHours": 4.73222940906867,
-    "BreakHours": 1.40379858178403,
-    "Productivity": 47.9189215681149
+    "BreakHoursRatio": 0.15,
+    "Productivity": 80
   },
   {
-    "WorkHours": 6.97106146066762,
-    "BreakHours": 2.01734647166774,
-    "Productivity": 62.3184324667608
+    "BreakHoursRatio": 0.15,
+    "Productivity": 86
   },
   {
-    "WorkHours": 4.20633112669131,
-    "BreakHours": 0.712050879310585,
-    "Productivity": 33.3168260987279
+    "BreakHoursRatio": 0.12,
+    "Productivity": 84
   },
   {
-    "WorkHours": 9.45592241247269,
-    "BreakHours": 2.58657925473431,
-    "Productivity": 80.6746344606373
+    "BreakHoursRatio": 0.14,
+    "Productivity": 86
   },
   {
-    "WorkHours": 5.5526798896001,
-    "BreakHours": 1.4403756787995,
-    "Productivity": 43.9468292350797
+    "BreakHoursRatio": 0.14,
+    "Productivity": 82
   },
   {
-    "WorkHours": 7.97513370612389,
-    "BreakHours": 2.76210812057076,
-    "Productivity": 59.0267978035634
+    "BreakHoursRatio": 0.16,
+    "Productivity": 97
   },
   {
-    "WorkHours": 5.87026645653647,
-    "BreakHours": 2.07829422783269,
-    "Productivity": 52.9420811638594
+    "BreakHoursRatio": 0.16,
+    "Productivity": 91
   },
   {
-    "WorkHours": 7.12040812706686,
-    "BreakHours": 0.84107402845452,
-    "Productivity": 76.5457943307467
+    "BreakHoursRatio": 0.1,
+    "Productivity": 93
   },
   {
-    "WorkHours": 7.28026167605968,
-    "BreakHours": 1.81893731225941,
-    "Productivity": 56.715092330204
+    "BreakHoursRatio": 0.14,
+    "Productivity": 95
   },
   {
-    "WorkHours": 5.10912673315316,
-    "BreakHours": 1.78995172394915,
-    "Productivity": 44.9563548952387
+    "BreakHoursRatio": 0.16,
+    "Productivity": 89
   },
   {
-    "WorkHours": 9.81750776658735,
-    "BreakHours": 2.95756842716342,
-    "Productivity": 80.1340226844473
+    "BreakHoursRatio": 0.15,
+    "Productivity": 81
   },
   {
-    "WorkHours": 8.65079694016669,
-    "BreakHours": 3.82880757299099,
-    "Productivity": 64.9283046178885
+    "BreakHoursRatio": 0.19,
+    "Productivity": 90
   },
   {
-    "WorkHours": 9.63699364938513,
-    "BreakHours": 3.50282990285939,
-    "Productivity": 75.89381735836
+    "BreakHoursRatio": 0.17,
+    "Productivity": 91
   },
   {
-    "WorkHours": 9.36896410256589,
-    "BreakHours": 1.54750712961581,
-    "Productivity": 81.6321515291808
+    "BreakHoursRatio": 0.12,
+    "Productivity": 94
   },
   {
-    "WorkHours": 7.58739987286651,
-    "BreakHours": 0.972913309308399,
-    "Productivity": 71.2520403218473
+    "BreakHoursRatio": 0.11,
+    "Productivity": 88
   },
   {
-    "WorkHours": 9.5312454101387,
-    "BreakHours": 3.40234685972929,
-    "Productivity": 74.1459692206854
+    "BreakHoursRatio": 0.16,
+    "Productivity": 82
   },
   {
-    "WorkHours": 4.53095501231152,
-    "BreakHours": 0.501144123383755,
-    "Productivity": 44.1561136350956
+    "BreakHoursRatio": 0.1,
+    "Productivity": 85
   },
   {
-    "WorkHours": 5.17589717451487,
-    "BreakHours": 1.73035538785674,
-    "Productivity": 42.8560042586193
+    "BreakHoursRatio": 0.16,
+    "Productivity": 87
   },
   {
-    "WorkHours": 4.27136373346323,
-    "BreakHours": 2.0335625150775,
-    "Productivity": 31.3510845249127
+    "BreakHoursRatio": 0.19,
+    "Productivity": 92
   },
   {
-    "WorkHours": 5.95198198457959,
-    "BreakHours": 1.96528297418115,
-    "Productivity": 45.1555866646821
+    "BreakHoursRatio": 0.16,
+    "Productivity": 91
   },
   {
-    "WorkHours": 6.33206373813689,
-    "BreakHours": 1.61637305940073,
-    "Productivity": 52.3549154315236
+    "BreakHoursRatio": 0.14,
+    "Productivity": 87
   },
   {
-    "WorkHours": 5.62809419064338,
-    "BreakHours": 2.01100409311423,
-    "Productivity": 50.0028775699914
+    "BreakHoursRatio": 0.16,
+    "Productivity": 99
   },
   {
-    "WorkHours": 8.97242505491158,
-    "BreakHours": 2.54189839194385,
-    "Productivity": 79.5193445275184
+    "BreakHoursRatio": 0.15,
+    "Productivity": 92
   },
   {
-    "WorkHours": 6.14051996016153,
-    "BreakHours": 1.95420031017365,
-    "Productivity": 46.7464218267543
+    "BreakHoursRatio": 0.15,
+    "Productivity": 84
   },
   {
-    "WorkHours": 5.68560705812429,
-    "BreakHours": 2.70968029051461,
-    "Productivity": 43.804330655816
+    "BreakHoursRatio": 0.19,
+    "Productivity": 82
   },
   {
-    "WorkHours": 7.25617649894949,
-    "BreakHours": 1.8462692045319,
-    "Productivity": 67.0873545836943
+    "BreakHoursRatio": 0.14,
+    "Productivity": 83
   },
   {
-    "WorkHours": 4.84554534984858,
-    "BreakHours": 2.34755152172698,
-    "Productivity": 28.370669484244
+    "BreakHoursRatio": 0.2,
+    "Productivity": 84
   },
   {
-    "WorkHours": 8.81318188452424,
-    "BreakHours": 4.07292613918425,
-    "Productivity": 70.4839891112208
+    "BreakHoursRatio": 0.19,
+    "Productivity": 83
   },
   {
-    "WorkHours": 4.44730386207863,
-    "BreakHours": 0.793027454171541,
-    "Productivity": 37.1947825551993
+    "BreakHoursRatio": 0.12,
+    "Productivity": 83
   },
   {
-    "WorkHours": 9.9213216196031,
-    "BreakHours": 1.26739447153494,
-    "Productivity": 95.7292371813221
+    "BreakHoursRatio": 0.11,
+    "Productivity": 85
   },
   {
-    "WorkHours": 8.63346861577994,
-    "BreakHours": 1.21137234639921,
-    "Productivity": 76.4615286430908
+    "BreakHoursRatio": 0.11,
+    "Productivity": 83
   },
   {
-    "WorkHours": 5.19229408920503,
-    "BreakHours": 0.55707463997053,
-    "Productivity": 40.1131571888751
+    "BreakHoursRatio": 0.1,
+    "Productivity": 97
   },
   {
-    "WorkHours": 4.03313270274161,
-    "BreakHours": 0.555673667701553,
-    "Productivity": 29.4152464994926
+    "BreakHoursRatio": 0.11,
+    "Productivity": 81
   },
   {
-    "WorkHours": 8.892768570729,
-    "BreakHours": 3.3188053243657,
-    "Productivity": 72.5740838187684
+    "BreakHoursRatio": 0.17,
+    "Productivity": 90
   },
   {
-    "WorkHours": 8.2411440630857,
-    "BreakHours": 1.05878476935542,
-    "Productivity": 78.4161292926873
+    "BreakHoursRatio": 0.11,
+    "Productivity": 88
   },
   {
-    "WorkHours": 8.37404300824592,
-    "BreakHours": 1.90585055948952,
-    "Productivity": 69.6895941594896
+    "BreakHoursRatio": 0.13,
+    "Productivity": 99
   },
   {
-    "WorkHours": 8.62762208011567,
-    "BreakHours": 3.77846816315743,
-    "Productivity": 70.5768422792564
+    "BreakHoursRatio": 0.18,
+    "Productivity": 82
   },
   {
-    "WorkHours": 4.44426791040454,
-    "BreakHours": 0.485797477921945,
-    "Productivity": 33.7060914030909
+    "BreakHoursRatio": 0.1,
+    "Productivity": 87
   },
   {
-    "WorkHours": 6.15079437126564,
-    "BreakHours": 2.61893070043908,
-    "Productivity": 48.0828912172244
+    "BreakHoursRatio": 0.18,
+    "Productivity": 99
   },
   {
-    "WorkHours": 4.69521435715078,
-    "BreakHours": 0.998868869774104,
-    "Productivity": 35.902718223825
+    "BreakHoursRatio": 0.13,
+    "Productivity": 97
   },
   {
-    "WorkHours": 9.17862055525356,
-    "BreakHours": 1.35169810181181,
-    "Productivity": 81.7685345044658
+    "BreakHoursRatio": 0.11,
+    "Productivity": 96
   },
   {
-    "WorkHours": 7.73978876096535,
-    "BreakHours": 2.93101826882946,
-    "Productivity": 62.9797896220882
+    "BreakHoursRatio": 0.17,
+    "Productivity": 85
   },
   {
-    "WorkHours": 5.9853881491159,
-    "BreakHours": 2.1043256395466,
-    "Productivity": 45.0301864670062
+    "BreakHoursRatio": 0.16,
+    "Productivity": 83
   },
   {
-    "WorkHours": 4.38135010171614,
-    "BreakHours": 1.97593984845954,
-    "Productivity": 32.0110240537146
+    "BreakHoursRatio": 0.19,
+    "Productivity": 93
   },
   {
-    "WorkHours": 5.86589393029397,
-    "BreakHours": 2.31132890270302,
-    "Productivity": 52.1337588354968
+    "BreakHoursRatio": 0.17,
+    "Productivity": 98
   },
   {
-    "WorkHours": 5.95109993216048,
-    "BreakHours": 2.50774811733825,
-    "Productivity": 44.0877993872978
+    "BreakHoursRatio": 0.18,
+    "Productivity": 91
   },
   {
-    "WorkHours": 8.37763707002838,
-    "BreakHours": 1.78287702308403,
-    "Productivity": 79.0404461451894
+    "BreakHoursRatio": 0.13,
+    "Productivity": 91
   },
   {
-    "WorkHours": 7.82534482813128,
-    "BreakHours": 1.33794472930218,
-    "Productivity": 65.9151903615138
+    "BreakHoursRatio": 0.12,
+    "Productivity": 85
   },
   {
-    "WorkHours": 9.32327645545796,
-    "BreakHours": 3.73160318198285,
-    "Productivity": 77.2237695342418
+    "BreakHoursRatio": 0.18,
+    "Productivity": 95
   },
   {
-    "WorkHours": 6.8332895509717,
-    "BreakHours": 2.88866311237556,
-    "Productivity": 61.0974230511287
+    "BreakHoursRatio": 0.18,
+    "Productivity": 83
   },
   {
-    "WorkHours": 4.71756547562981,
-    "BreakHours": 2.34086569209745,
-    "Productivity": 23.1131037951744
+    "BreakHoursRatio": 0.2,
+    "Productivity": 86
   },
   {
-    "WorkHours": 8.27946872333797,
-    "BreakHours": 2.19444893260761,
-    "Productivity": 67.8379662929893
+    "BreakHoursRatio": 0.14,
+    "Productivity": 88
   },
   {
-    "WorkHours": 8.56471029170138,
-    "BreakHours": 2.13096188040554,
-    "Productivity": 77.8776541508889
+    "BreakHoursRatio": 0.14,
+    "Productivity": 90
   },
   {
-    "WorkHours": 7.36766318541698,
-    "BreakHours": 3.02490599355746,
-    "Productivity": 57.5368749561675
+    "BreakHoursRatio": 0.18,
+    "Productivity": 84
   },
   {
-    "WorkHours": 8.62580307972737,
-    "BreakHours": 2.03846199881133,
-    "Productivity": 77.9214501700736
+    "BreakHoursRatio": 0.13,
+    "Productivity": 82
   },
   {
-    "WorkHours": 6.96277357818634,
-    "BreakHours": 3.28853836358499,
-    "Productivity": 50.1651180303594
+    "BreakHoursRatio": 0.19,
+    "Productivity": 92
   },
   {
-    "WorkHours": 7.13639697629196,
-    "BreakHours": 3.16402936429437,
-    "Productivity": 55.9767718788123
+    "BreakHoursRatio": 0.19,
+    "Productivity": 85
   },
   {
-    "WorkHours": 6.5652461101513,
-    "BreakHours": 1.78310515881592,
-    "Productivity": 55.958549130473
+    "BreakHoursRatio": 0.14,
+    "Productivity": 91
   },
   {
-    "WorkHours": 4.15251476046457,
-    "BreakHours": 1.66245275293045,
-    "Productivity": 39.0517941482925
+    "BreakHoursRatio": 0.18,
+    "Productivity": 83
   },
   {
-    "WorkHours": 4.64734856195983,
-    "BreakHours": 1.86738435252178,
-    "Productivity": 38.4086680734955
+    "BreakHoursRatio": 0.18,
+    "Productivity": 89
   },
   {
-    "WorkHours": 4.18857511412041,
-    "BreakHours": 0.591634339683242,
-    "Productivity": 40.6155927531639
+    "BreakHoursRatio": 0.11,
+    "Productivity": 90
   },
   {
-    "WorkHours": 7.81846246758268,
-    "BreakHours": 3.60447665711101,
-    "Productivity": 58.1028565596595
+    "BreakHoursRatio": 0.19,
+    "Productivity": 81
   },
   {
-    "WorkHours": 5.88613588645796,
-    "BreakHours": 1.77820723711914,
-    "Productivity": 47.5322915586214
+    "BreakHoursRatio": 0.15,
+    "Productivity": 86
   },
   {
-    "WorkHours": 7.05142414698822,
-    "BreakHours": 3.03622326788715,
-    "Productivity": 53.1703341913483
+    "BreakHoursRatio": 0.18,
+    "Productivity": 82
   },
   {
-    "WorkHours": 9.44539884355656,
-    "BreakHours": 2.15373833693777,
-    "Productivity": 85.6575574627682
+    "BreakHoursRatio": 0.13,
+    "Productivity": 81
   },
   {
-    "WorkHours": 5.49575337489325,
-    "BreakHours": 2.51820525961064,
-    "Productivity": 40.261585046778
+    "BreakHoursRatio": 0.19,
+    "Productivity": 99
   },
   {
-    "WorkHours": 6.46229753821378,
-    "BreakHours": 1.65228457396236,
-    "Productivity": 57.8104267968081
+    "BreakHoursRatio": 0.14,
+    "Productivity": 86
   },
   {
-    "WorkHours": 8.53330683125829,
-    "BreakHours": 0.89032308529048,
-    "Productivity": 91.2584568793577
+    "BreakHoursRatio": 0.1,
+    "Productivity": 96
   },
   {
-    "WorkHours": 5.37278899294973,
-    "BreakHours": 2.48304942622317,
-    "Productivity": 45.66826631554
+    "BreakHoursRatio": 0.19,
+    "Productivity": 85
   },
   {
-    "WorkHours": 4.46187945897276,
-    "BreakHours": 0.60911200510925,
-    "Productivity": 39.9431169033421
+    "BreakHoursRatio": 0.11,
+    "Productivity": 93
   },
   {
-    "WorkHours": 5.73850871748261,
-    "BreakHours": 1.30680450891773,
-    "Productivity": 56.8571342410572
+    "BreakHoursRatio": 0.13,
+    "Productivity": 95
   },
   {
-    "WorkHours": 4.96732772352403,
-    "BreakHours": 2.3844404315513,
-    "Productivity": 35.710698212376
+    "BreakHoursRatio": 0.2,
+    "Productivity": 91
   },
   {
-    "WorkHours": 9.57818591405544,
-    "BreakHours": 4.59985538524464,
-    "Productivity": 62.5919595384419
+    "BreakHoursRatio": 0.2,
+    "Productivity": 89
   },
   {
-    "WorkHours": 8.8487222773865,
-    "BreakHours": 2.91454927387225,
-    "Productivity": 68.8740448499168
+    "BreakHoursRatio": 0.16,
+    "Productivity": 88
   },
   {
-    "WorkHours": 7.80042253906254,
-    "BreakHours": 2.75148114623735,
-    "Productivity": 54.8928600543094
+    "BreakHoursRatio": 0.16,
+    "Productivity": 86
   },
   {
-    "WorkHours": 9.22876354112631,
-    "BreakHours": 2.57831542747858,
-    "Productivity": 77.6384908536636
+    "BreakHoursRatio": 0.14,
+    "Productivity": 98
   },
   {
-    "WorkHours": 8.82203246139469,
-    "BreakHours": 1.91688922451983,
-    "Productivity": 78.7279703872955
+    "BreakHoursRatio": 0.13,
+    "Productivity": 96
   },
   {
-    "WorkHours": 5.11942035331622,
-    "BreakHours": 1.18497082052369,
-    "Productivity": 53.6515359919201
+    "BreakHoursRatio": 0.13,
+    "Productivity": 99
   },
   {
-    "WorkHours": 9.35535399093987,
-    "BreakHours": 3.4521946879104,
-    "Productivity": 77.9272033386675
+    "BreakHoursRatio": 0.17,
+    "Productivity": 82
   },
   {
-    "WorkHours": 7.23605345149391,
-    "BreakHours": 2.90129426937084,
-    "Productivity": 56.7585605240405
+    "BreakHoursRatio": 0.18,
+    "Productivity": 94
   },
   {
-    "WorkHours": 8.84464093098438,
-    "BreakHours": 3.68495705719728,
-    "Productivity": 74.1686519297748
+    "BreakHoursRatio": 0.18,
+    "Productivity": 98
   },
   {
-    "WorkHours": 9.37654779954096,
-    "BreakHours": 3.89921168367325,
-    "Productivity": 63.2137430320039
+    "BreakHoursRatio": 0.18,
+    "Productivity": 83
   },
   {
-    "WorkHours": 5.90802084983118,
-    "BreakHours": 0.806341108360524,
-    "Productivity": 56.226575747052
+    "BreakHoursRatio": 0.11,
+    "Productivity": 81
   },
   {
-    "WorkHours": 4.66031154716606,
-    "BreakHours": 1.38769221678013,
-    "Productivity": 43.5189803571948
+    "BreakHoursRatio": 0.15,
+    "Productivity": 94
   },
   {
-    "WorkHours": 5.36761097525165,
-    "BreakHours": 0.660342310320051,
-    "Productivity": 42.981466972017
+    "BreakHoursRatio": 0.11,
+    "Productivity": 91
   },
   {
-    "WorkHours": 6.56264673175754,
-    "BreakHours": 2.09881024261105,
-    "Productivity": 60.8511863205548
+    "BreakHoursRatio": 0.15,
+    "Productivity": 96
   },
   {
-    "WorkHours": 8.90808859553496,
-    "BreakHours": 2.4640859890995,
-    "Productivity": 78.4529380473242
+    "BreakHoursRatio": 0.14,
+    "Productivity": 82
   },
   {
-    "WorkHours": 9.16438349953806,
-    "BreakHours": 4.17054297593024,
-    "Productivity": 68.7146805462254
+    "BreakHoursRatio": 0.19,
+    "Productivity": 95
   },
   {
-    "WorkHours": 4.04171278318714,
-    "BreakHours": 0.97149035513632,
-    "Productivity": 38.7235853867213
+    "BreakHoursRatio": 0.14,
+    "Productivity": 84
   },
   {
-    "WorkHours": 7.06448381546539,
-    "BreakHours": 1.0372555986976,
-    "Productivity": 76.8120244501879
+    "BreakHoursRatio": 0.11,
+    "Productivity": 83
   },
   {
-    "WorkHours": 6.50446601889267,
-    "BreakHours": 1.02248041664806,
-    "Productivity": 60.8415893809789
+    "BreakHoursRatio": 0.11,
+    "Productivity": 83
   },
   {
-    "WorkHours": 5.33264686282438,
-    "BreakHours": 2.15761159877668,
-    "Productivity": 43.7795135658621
+    "BreakHoursRatio": 0.18,
+    "Productivity": 96
   },
   {
-    "WorkHours": 4.7191922040021,
-    "BreakHours": 1.63891516631036,
-    "Productivity": 36.700541710768
+    "BreakHoursRatio": 0.16,
+    "Productivity": 93
   },
   {
-    "WorkHours": 6.02569102842177,
-    "BreakHours": 0.846302703755416,
-    "Productivity": 51.7761749181167
+    "BreakHoursRatio": 0.11,
+    "Productivity": 90
   },
   {
-    "WorkHours": 9.65745822347511,
-    "BreakHours": 1.29064900889372,
-    "Productivity": 94.2730162730038
+    "BreakHoursRatio": 0.11,
+    "Productivity": 87
   },
   {
-    "WorkHours": 5.93921759212453,
-    "BreakHours": 2.25920503805176,
-    "Productivity": 43.8157316014422
+    "BreakHoursRatio": 0.17,
+    "Productivity": 97
   },
   {
-    "WorkHours": 7.1127437304602,
-    "BreakHours": 0.918292219976561,
-    "Productivity": 66.8938073908161
+    "BreakHoursRatio": 0.11,
+    "Productivity": 87
   },
   {
-    "WorkHours": 8.21811375337107,
-    "BreakHours": 3.52346715797728,
-    "Productivity": 62.1755145099987
+    "BreakHoursRatio": 0.18,
+    "Productivity": 96
   },
   {
-    "WorkHours": 6.18177761427576,
-    "BreakHours": 2.36451071746449,
-    "Productivity": 52.3901216841671
+    "BreakHoursRatio": 0.17,
+    "Productivity": 88
   },
   {
-    "WorkHours": 9.83069249632576,
-    "BreakHours": 1.30295518860921,
-    "Productivity": 93.4604595466463
+    "BreakHoursRatio": 0.11,
+    "Productivity": 87
   },
   {
-    "WorkHours": 9.77468376965267,
-    "BreakHours": 1.30917310773445,
-    "Productivity": 96.3886718791439
+    "BreakHoursRatio": 0.11,
+    "Productivity": 89
   },
   {
-    "WorkHours": 5.51069377495218,
-    "BreakHours": 2.72589681084237,
-    "Productivity": 38.9273717010363
+    "BreakHoursRatio": 0.2,
+    "Productivity": 86
   },
   {
-    "WorkHours": 6.98349103535431,
-    "BreakHours": 1.74383580231855,
-    "Productivity": 59.7663566654835
+    "BreakHoursRatio": 0.14,
+    "Productivity": 94
   },
   {
-    "WorkHours": 5.80526985890062,
-    "BreakHours": 1.44119805981232,
-    "Productivity": 45.9528897110331
+    "BreakHoursRatio": 0.14,
+    "Productivity": 90
   },
   {
-    "WorkHours": 5.70904296626481,
-    "BreakHours": 2.42702735760029,
-    "Productivity": 42.733826574266
+    "BreakHoursRatio": 0.18,
+    "Productivity": 84
   },
   {
-    "WorkHours": 4.2213216841272,
-    "BreakHours": 2.02158855240037,
-    "Productivity": 33.9917765444944
+    "BreakHoursRatio": 0.19,
+    "Productivity": 97
   },
   {
-    "WorkHours": 7.65738600387938,
-    "BreakHours": 3.78581489875891,
-    "Productivity": 61.429728628226
+    "BreakHoursRatio": 0.2,
+    "Productivity": 87
   },
   {
-    "WorkHours": 7.01607413937317,
-    "BreakHours": 2.81591029504258,
-    "Productivity": 51.4703632976307
+    "BreakHoursRatio": 0.18,
+    "Productivity": 90
   },
   {
-    "WorkHours": 4.30887250749994,
-    "BreakHours": 1.07938908426099,
-    "Productivity": 42.0398092542227
+    "BreakHoursRatio": 0.14,
+    "Productivity": 98
   },
   {
-    "WorkHours": 5.67187878541967,
-    "BreakHours": 0.756630255986174,
-    "Productivity": 59.7138258682906
+    "BreakHoursRatio": 0.11,
+    "Productivity": 92
   },
   {
-    "WorkHours": 9.44959531579992,
-    "BreakHours": 3.8824490741545,
-    "Productivity": 77.1508823033452
+    "BreakHoursRatio": 0.09,
+    "Productivity": 76
   },
   {
-    "WorkHours": 5.43737134400183,
-    "BreakHours": 1.75823764075311,
-    "Productivity": 54.9665042990431
+    "BreakHoursRatio": 0.08,
+    "Productivity": 70
   },
   {
-    "WorkHours": 4.86936923254734,
-    "BreakHours": 1.31321436309339,
-    "Productivity": 38.2586745144886
+    "BreakHoursRatio": 0.07,
+    "Productivity": 77
   },
   {
-    "WorkHours": 6.93671656166538,
-    "BreakHours": 3.20852104569642,
-    "Productivity": 47.1012868716146
+    "BreakHoursRatio": 0.1,
+    "Productivity": 75
   },
   {
-    "WorkHours": 9.9139027246636,
-    "BreakHours": 1.43235068159064,
-    "Productivity": 83.0836725941615
+    "BreakHoursRatio": 0.06,
+    "Productivity": 78
   },
   {
-    "WorkHours": 5.452331629069,
-    "BreakHours": 1.61961533786629,
-    "Productivity": 53.9054611588045
+    "BreakHoursRatio": 0.07,
+    "Productivity": 66
   },
   {
-    "WorkHours": 8.03281328443527,
-    "BreakHours": 0.83976201184932,
-    "Productivity": 79.4011510668764
+    "BreakHoursRatio": 0.05,
+    "Productivity": 74
   },
   {
-    "WorkHours": 8.56971769197231,
-    "BreakHours": 2.4634875272885,
-    "Productivity": 73.1018159287283
+    "BreakHoursRatio": 0.07,
+    "Productivity": 67
   },
   {
-    "WorkHours": 5.4258252639544,
-    "BreakHours": 0.664779220650601,
-    "Productivity": 52.3341996678901
+    "BreakHoursRatio": 0.05,
+    "Productivity": 69
   },
   {
-    "WorkHours": 8.36929809167116,
-    "BreakHours": 1.2346988331186,
-    "Productivity": 71.8920415146267
+    "BreakHoursRatio": 0.06,
+    "Productivity": 71
   },
   {
-    "WorkHours": 6.20669879631552,
-    "BreakHours": 0.912449885394327,
-    "Productivity": 69.7334984342677
+    "BreakHoursRatio": 0.06,
+    "Productivity": 76
   },
   {
-    "WorkHours": 7.79383498356148,
-    "BreakHours": 2.80331868408443,
-    "Productivity": 64.5678623250688
+    "BreakHoursRatio": 0.08,
+    "Productivity": 78
   },
   {
-    "WorkHours": 7.80117826456537,
-    "BreakHours": 3.10812946506282,
-    "Productivity": 63.018109293364
+    "BreakHoursRatio": 0.09,
+    "Productivity": 74
   },
   {
-    "WorkHours": 7.21464810444855,
-    "BreakHours": 2.40498495256594,
-    "Productivity": 63.7503894011493
+    "BreakHoursRatio": 0.08,
+    "Productivity": 67
   },
   {
-    "WorkHours": 4.54173862032645,
-    "BreakHours": 2.20214835116255,
-    "Productivity": 36.8116906061353
+    "BreakHoursRatio": 0.1,
+    "Productivity": 68
   },
   {
-    "WorkHours": 9.01181497353543,
-    "BreakHours": 2.25248721802939,
-    "Productivity": 79.975133766603
+    "BreakHoursRatio": 0.07,
+    "Productivity": 74
   },
   {
-    "WorkHours": 5.92468038983041,
-    "BreakHours": 1.26956915687571,
-    "Productivity": 48.946585836699
+    "BreakHoursRatio": 0.06,
+    "Productivity": 64
   },
   {
-    "WorkHours": 5.11911106239913,
-    "BreakHours": 2.29049326860187,
-    "Productivity": 42.0959860666619
+    "BreakHoursRatio": 0.09,
+    "Productivity": 62
   },
   {
-    "WorkHours": 4.24465084932858,
-    "BreakHours": 0.804099591284031,
-    "Productivity": 47.8361330192408
+    "BreakHoursRatio": 0.06,
+    "Productivity": 66
   },
   {
-    "WorkHours": 7.54535765912945,
-    "BreakHours": 3.66167919207868,
-    "Productivity": 63.872280861676
+    "BreakHoursRatio": 0.1,
+    "Productivity": 65
   },
   {
-    "WorkHours": 8.06538617105369,
-    "BreakHours": 0.845750829937236,
-    "Productivity": 84.3910406940477
+    "BreakHoursRatio": 0.05,
+    "Productivity": 65
   },
   {
-    "WorkHours": 4.09952697356714,
-    "BreakHours": 2.00037046182856,
-    "Productivity": 28.4373390443726
+    "BreakHoursRatio": 0.1,
+    "Productivity": 64
   },
   {
-    "WorkHours": 7.07255834979569,
-    "BreakHours": 0.829356233236566,
-    "Productivity": 61.6307782304811
+    "BreakHoursRatio": 0.05,
+    "Productivity": 60
   },
   {
-    "WorkHours": 5.35897465118763,
-    "BreakHours": 2.44614280787411,
-    "Productivity": 40.7300978720075
+    "BreakHoursRatio": 0.09,
+    "Productivity": 60
   },
   {
-    "WorkHours": 7.8710367424567,
-    "BreakHours": 2.44852560170704,
-    "Productivity": 66.7463639774753
+    "BreakHoursRatio": 0.08,
+    "Productivity": 78
   },
   {
-    "WorkHours": 5.04619857402995,
-    "BreakHours": 2.50889887269866,
-    "Productivity": 43.3884489691609
+    "BreakHoursRatio": 0.1,
+    "Productivity": 68
   },
   {
-    "WorkHours": 8.1456264286148,
-    "BreakHours": 1.05501034208134,
-    "Productivity": 67.7188894271672
+    "BreakHoursRatio": 0.05,
+    "Productivity": 67
   },
   {
-    "WorkHours": 6.32041207780322,
-    "BreakHours": 2.03227613116959,
-    "Productivity": 60.6904917194874
+    "BreakHoursRatio": 0.08,
+    "Productivity": 72
   },
   {
-    "WorkHours": 9.62037993242041,
-    "BreakHours": 4.69206145808772,
-    "Productivity": 71.9534525408705
+    "BreakHoursRatio": 0.1,
+    "Productivity": 64
   },
   {
-    "WorkHours": 4.82512566487596,
-    "BreakHours": 1.49211769974626,
-    "Productivity": 38.6562628002912
+    "BreakHoursRatio": 0.08,
+    "Productivity": 78
   },
   {
-    "WorkHours": 6.04639810630155,
-    "BreakHours": 2.12687770412208,
-    "Productivity": 44.7690706661042
+    "BreakHoursRatio": 0.08,
+    "Productivity": 74
   },
   {
-    "WorkHours": 4.68084112744353,
-    "BreakHours": 1.77075974385,
-    "Productivity": 29.6803291958565
+    "BreakHoursRatio": 0.08,
+    "Productivity": 61
   },
   {
-    "WorkHours": 9.54816170967138,
-    "BreakHours": 2.6908288070027,
-    "Productivity": 86.1433259815098
+    "BreakHoursRatio": 0.07,
+    "Productivity": 67
   },
   {
-    "WorkHours": 9.26403612028589,
-    "BreakHours": 3.251891900619,
-    "Productivity": 76.7474915357059
+    "BreakHoursRatio": 0.08,
+    "Productivity": 76
   },
   {
-    "WorkHours": 5.54764976629093,
-    "BreakHours": 1.85139343902135,
-    "Productivity": 39.7697259690973
+    "BreakHoursRatio": 0.08,
+    "Productivity": 77
   },
   {
-    "WorkHours": 7.95990427620507,
-    "BreakHours": 3.66524302811798,
-    "Productivity": 54.7974337611428
+    "BreakHoursRatio": 0.1,
+    "Productivity": 68
   },
   {
-    "WorkHours": 8.9033332012073,
-    "BreakHours": 1.05218302690825,
-    "Productivity": 82.0934933810811
+    "BreakHoursRatio": 0.05,
+    "Productivity": 71
   },
   {
-    "WorkHours": 7.33120486959677,
-    "BreakHours": 1.55703996844608,
-    "Productivity": 73.8719564801843
+    "BreakHoursRatio": 0.06,
+    "Productivity": 63
   },
   {
-    "WorkHours": 7.17790347013604,
-    "BreakHours": 3.44657510285771,
-    "Productivity": 53.2482024302538
+    "BreakHoursRatio": 0.1,
+    "Productivity": 78
   },
   {
-    "WorkHours": 5.45111374540271,
-    "BreakHours": 2.48628303430107,
-    "Productivity": 34.5640075169312
+    "BreakHoursRatio": 0.09,
+    "Productivity": 64
   },
   {
-    "WorkHours": 4.5586166068354,
-    "BreakHours": 1.2867274367898,
-    "Productivity": 37.9238135639752
+    "BreakHoursRatio": 0.07,
+    "Productivity": 77
   },
   {
-    "WorkHours": 9.38329454771996,
-    "BreakHours": 3.26588418429783,
-    "Productivity": 76.1399067069721
+    "BreakHoursRatio": 0.08,
+    "Productivity": 72
   },
   {
-    "WorkHours": 9.40250834297998,
-    "BreakHours": 1.9834823891643,
-    "Productivity": 70.6232382692705
+    "BreakHoursRatio": 0.06,
+    "Productivity": 71
   },
   {
-    "WorkHours": 7.79860874363961,
-    "BreakHours": 1.3666942027981,
-    "Productivity": 70.8811420898165
+    "BreakHoursRatio": 0.06,
+    "Productivity": 69
   },
   {
-    "WorkHours": 6.0341787462922,
-    "BreakHours": 1.7226334985406,
-    "Productivity": 50.5739473191757
+    "BreakHoursRatio": 0.07,
+    "Productivity": 64
   },
   {
-    "WorkHours": 6.09525744767597,
-    "BreakHours": 1.47103486457907,
-    "Productivity": 57.0784319779314
+    "BreakHoursRatio": 0.07,
+    "Productivity": 63
   },
   {
-    "WorkHours": 8.35573407322144,
-    "BreakHours": 2.78632351165665,
-    "Productivity": 78.8705036486578
+    "BreakHoursRatio": 0.08,
+    "Productivity": 64
   },
   {
-    "WorkHours": 9.38266155971546,
-    "BreakHours": 1.23000927201547,
-    "Productivity": 93.3093943848161
+    "BreakHoursRatio": 0.05,
+    "Productivity": 63
   },
   {
-    "WorkHours": 9.3225185455907,
-    "BreakHours": 4.56577732063712,
-    "Productivity": 69.0518553999473
+    "BreakHoursRatio": 0.1,
+    "Productivity": 74
   },
   {
-    "WorkHours": 8.67925327514574,
-    "BreakHours": 4.29175446111798,
-    "Productivity": 59.8011309021592
+    "BreakHoursRatio": 0.1,
+    "Productivity": 66
   },
   {
-    "WorkHours": 7.85218987692573,
-    "BreakHours": 2.97805832500576,
-    "Productivity": 76.4984061604778
+    "BreakHoursRatio": 0.08,
+    "Productivity": 61
   },
   {
-    "WorkHours": 4.50483978997029,
-    "BreakHours": 1.41649527594322,
-    "Productivity": 38.2620136900593
+    "BreakHoursRatio": 0.08,
+    "Productivity": 78
   },
   {
-    "WorkHours": 4.96977228456768,
-    "BreakHours": 1.112289935948,
-    "Productivity": 44.2059196255015
+    "BreakHoursRatio": 0.07,
+    "Productivity": 76
   },
   {
-    "WorkHours": 9.39132513116247,
-    "BreakHours": 3.99617796119174,
-    "Productivity": 73.811736070116
+    "BreakHoursRatio": 0.09,
+    "Productivity": 77
   },
   {
-    "WorkHours": 7.63857435795754,
-    "BreakHours": 2.85600542650146,
-    "Productivity": 63.0961402509074
+    "BreakHoursRatio": 0.08,
+    "Productivity": 78
   },
   {
-    "WorkHours": 4.05518230969978,
-    "BreakHours": 0.669294765245548,
-    "Productivity": 36.4835472111503
+    "BreakHoursRatio": 0.06,
+    "Productivity": 63
   },
   {
-    "WorkHours": 4.60882925719619,
-    "BreakHours": 2.14020606934785,
-    "Productivity": 32.5189521908215
+    "BreakHoursRatio": 0.1,
+    "Productivity": 67
   },
   {
-    "WorkHours": 7.98101061464834,
-    "BreakHours": 3.42397244815019,
-    "Productivity": 59.9559491995304
+    "BreakHoursRatio": 0.09,
+    "Productivity": 74
   },
   {
-    "WorkHours": 4.03036950307731,
-    "BreakHours": 1.93425479213063,
-    "Productivity": 30.46865471904
+    "BreakHoursRatio": 0.1,
+    "Productivity": 73
   },
   {
-    "WorkHours": 4.96484830850499,
-    "BreakHours": 1.93771974031891,
-    "Productivity": 37.2427605277866
+    "BreakHoursRatio": 0.09,
+    "Productivity": 62
   },
   {
-    "WorkHours": 7.29240273619952,
-    "BreakHours": 2.51854853492736,
-    "Productivity": 56.7670557739726
+    "BreakHoursRatio": 0.08,
+    "Productivity": 75
   },
   {
-    "WorkHours": 8.15137118615616,
-    "BreakHours": 2.17883881254754,
-    "Productivity": 71.1516689372834
+    "BreakHoursRatio": 0.07,
+    "Productivity": 64
   },
   {
-    "WorkHours": 7.9117675570156,
-    "BreakHours": 3.74298913734342,
-    "Productivity": 59.1278437963346
+    "BreakHoursRatio": 0.1,
+    "Productivity": 64
   },
   {
-    "WorkHours": 5.34561585676336,
-    "BreakHours": 2.38641952994975,
-    "Productivity": 49.0440258607983
+    "BreakHoursRatio": 0.09,
+    "Productivity": 70
   },
   {
-    "WorkHours": 8.27307532808522,
-    "BreakHours": 0.976946518418258,
-    "Productivity": 64.5911716467958
+    "BreakHoursRatio": 0.05,
+    "Productivity": 71
   },
   {
-    "WorkHours": 5.4234945249808,
-    "BreakHours": 0.599549909228542,
-    "Productivity": 56.6947299632776
+    "BreakHoursRatio": 0.05,
+    "Productivity": 71
   },
   {
-    "WorkHours": 5.95239818895561,
-    "BreakHours": 1.49158376418077,
-    "Productivity": 58.2964890311403
+    "BreakHoursRatio": 0.07,
+    "Productivity": 61
   },
   {
-    "WorkHours": 8.47894843070814,
-    "BreakHours": 3.59695079988597,
-    "Productivity": 56.4377791456108
+    "BreakHoursRatio": 0.09,
+    "Productivity": 76
   },
   {
-    "WorkHours": 7.89779739428329,
-    "BreakHours": 3.90870247604499,
-    "Productivity": 57.7210235922062
+    "BreakHoursRatio": 0.1,
+    "Productivity": 65
   },
   {
-    "WorkHours": 9.09534046296507,
-    "BreakHours": 1.45677118068344,
-    "Productivity": 81.8123443962545
+    "BreakHoursRatio": 0.06,
+    "Productivity": 62
   },
   {
-    "WorkHours": 7.94567735380206,
-    "BreakHours": 2.68287612344888,
-    "Productivity": 59.0048344471871
+    "BreakHoursRatio": 0.08,
+    "Productivity": 76
   },
   {
-    "WorkHours": 7.40985162001283,
-    "BreakHours": 1.86992305442346,
-    "Productivity": 60.8598174900566
+    "BreakHoursRatio": 0.07,
+    "Productivity": 78
   },
   {
-    "WorkHours": 4.56204860696855,
-    "BreakHours": 2.2261235116684,
-    "Productivity": 28.9369892840144
+    "BreakHoursRatio": 0.1,
+    "Productivity": 76
   },
   {
-    "WorkHours": 6.2062948183566,
-    "BreakHours": 2.71120480547454,
-    "Productivity": 57.2682763733114
+    "BreakHoursRatio": 0.09,
+    "Productivity": 75
   },
   {
-    "WorkHours": 5.59121420609035,
-    "BreakHours": 2.43403156587073,
-    "Productivity": 48.4203761972872
+    "BreakHoursRatio": 0.09,
+    "Productivity": 72
   },
   {
-    "WorkHours": 5.4639378602745,
-    "BreakHours": 1.57075790628962,
-    "Productivity": 53.1433645462677
+    "BreakHoursRatio": 0.34,
+    "Productivity": 70
   },
   {
-    "WorkHours": 9.83806332851467,
-    "BreakHours": 2.61621454641182,
-    "Productivity": 88.9079208733038
+    "BreakHoursRatio": 0.32,
+    "Productivity": 61
   },
   {
-    "WorkHours": 6.35858634800056,
-    "BreakHours": 1.33125162481022,
-    "Productivity": 51.2843464998684
+    "BreakHoursRatio": 0.28,
+    "Productivity": 67
   },
   {
-    "WorkHours": 9.35227933106268,
-    "BreakHours": 1.14612368994901,
-    "Productivity": 85.1695735294829
+    "BreakHoursRatio": 0.22,
+    "Productivity": 67
   },
   {
-    "WorkHours": 7.78683175598358,
-    "BreakHours": 3.47206223941133,
-    "Productivity": 62.9548791689187
+    "BreakHoursRatio": 0.46,
+    "Productivity": 64
   },
   {
-    "WorkHours": 8.76886782124989,
-    "BreakHours": 3.72817538245391,
-    "Productivity": 62.9371622557696
+    "BreakHoursRatio": 0.44,
+    "Productivity": 73
   },
   {
-    "WorkHours": 7.01582255863115,
-    "BreakHours": 3.50711897766435,
-    "Productivity": 56.1876228488517
+    "BreakHoursRatio": 0.5,
+    "Productivity": 69
   },
   {
-    "WorkHours": 7.46142330775815,
-    "BreakHours": 3.72067406098126,
-    "Productivity": 54.8092357818846
+    "BreakHoursRatio": 0.5,
+    "Productivity": 61
   },
   {
-    "WorkHours": 6.95510616291318,
-    "BreakHours": 2.240745207777,
-    "Productivity": 56.4732315524988
+    "BreakHoursRatio": 0.37,
+    "Productivity": 64
   },
   {
-    "WorkHours": 5.17145792678827,
-    "BreakHours": 2.1078602182131,
-    "Productivity": 44.7300780178346
+    "BreakHoursRatio": 0.43,
+    "Productivity": 72
   },
   {
-    "WorkHours": 8.33471269156903,
-    "BreakHours": 3.98321163692112,
-    "Productivity": 65.6523852885149
+    "BreakHoursRatio": 0.48,
+    "Productivity": 61
   },
   {
-    "WorkHours": 5.68463417464513,
-    "BreakHours": 2.50043725484166,
-    "Productivity": 42.5393246431476
+    "BreakHoursRatio": 0.45,
+    "Productivity": 76
   },
   {
-    "WorkHours": 4.14589579858872,
-    "BreakHours": 0.82478136218128,
-    "Productivity": 43.1317001918021
+    "BreakHoursRatio": 0.27,
+    "Productivity": 69
   },
   {
-    "WorkHours": 7.87283377544301,
-    "BreakHours": 2.20610701186313,
-    "Productivity": 62.2924860571149
+    "BreakHoursRatio": 0.34,
+    "Productivity": 69
   },
   {
-    "WorkHours": 5.06266407644229,
-    "BreakHours": 0.767822700132938,
-    "Productivity": 49.8672052984796
+    "BreakHoursRatio": 0.24,
+    "Productivity": 71
   },
   {
-    "WorkHours": 9.64275150611749,
-    "BreakHours": 4.64414594261654,
-    "Productivity": 76.1722916379341
+    "BreakHoursRatio": 0.49,
+    "Productivity": 75
   },
   {
-    "WorkHours": 9.72357146201552,
-    "BreakHours": 3.33003009681926,
-    "Productivity": 79.037831939489
+    "BreakHoursRatio": 0.38,
+    "Productivity": 66
   },
   {
-    "WorkHours": 9.48918634132269,
-    "BreakHours": 1.81677230894233,
-    "Productivity": 87.4386669797258
+    "BreakHoursRatio": 0.27,
+    "Productivity": 72
   },
   {
-    "WorkHours": 6.22095220153267,
-    "BreakHours": 2.29354236072351,
-    "Productivity": 44.4862423297826
+    "BreakHoursRatio": 0.4,
+    "Productivity": 70
   },
   {
-    "WorkHours": 4.0927396991732,
-    "BreakHours": 1.42120916547816,
-    "Productivity": 38.4414862603757
+    "BreakHoursRatio": 0.39,
+    "Productivity": 65
   },
   {
-    "WorkHours": 9.56991137552635,
-    "BreakHours": 2.3280253253894,
-    "Productivity": 83.1344764461016
+    "BreakHoursRatio": 0.31,
+    "Productivity": 76
   },
   {
-    "WorkHours": 6.56910488990389,
-    "BreakHours": 0.955299182672106,
-    "Productivity": 58.3009378830831
+    "BreakHoursRatio": 0.23,
+    "Productivity": 75
   },
   {
-    "WorkHours": 9.79992891426202,
-    "BreakHours": 3.61254072243949,
-    "Productivity": 85.1816316596072
+    "BreakHoursRatio": 0.4,
+    "Productivity": 72
   },
   {
-    "WorkHours": 9.78171986253552,
-    "BreakHours": 3.01397365527788,
-    "Productivity": 79.225611896252
+    "BreakHoursRatio": 0.36,
+    "Productivity": 76
   },
   {
-    "WorkHours": 9.11805673280416,
-    "BreakHours": 3.72862283793387,
-    "Productivity": 65.4951466565545
+    "BreakHoursRatio": 0.43,
+    "Productivity": 76
   },
   {
-    "WorkHours": 5.76669335241751,
-    "BreakHours": 1.77651869685485,
-    "Productivity": 41.0011941722814
+    "BreakHoursRatio": 0.36,
+    "Productivity": 73
   },
   {
-    "WorkHours": 6.31058637161155,
-    "BreakHours": 2.78216462198102,
-    "Productivity": 52.2250903629386
+    "BreakHoursRatio": 0.46,
+    "Productivity": 75
   },
   {
-    "WorkHours": 9.10682002910114,
-    "BreakHours": 2.92112850432987,
-    "Productivity": 70.0604110068807
+    "BreakHoursRatio": 0.37,
+    "Productivity": 73
   },
   {
-    "WorkHours": 5.90153203093767,
-    "BreakHours": 1.91431056564788,
-    "Productivity": 58.2177383910591
+    "BreakHoursRatio": 0.37,
+    "Productivity": 72
   },
   {
-    "WorkHours": 5.01695648011655,
-    "BreakHours": 2.26094883708138,
-    "Productivity": 28.45517357634
+    "BreakHoursRatio": 0.46,
+    "Productivity": 71
   },
   {
-    "WorkHours": 7.3408075747501,
-    "BreakHours": 1.91883678970455,
-    "Productivity": 72.2961736404284
+    "BreakHoursRatio": 0.32,
+    "Productivity": 74
   },
   {
-    "WorkHours": 9.61692864496469,
-    "BreakHours": 1.47721882023585,
-    "Productivity": 89.8382796844807
+    "BreakHoursRatio": 0.24,
+    "Productivity": 63
   },
   {
-    "WorkHours": 8.17617878004984,
-    "BreakHours": 0.91175080092745,
-    "Productivity": 76.7194682365092
+    "BreakHoursRatio": 0.21,
+    "Productivity": 76
   },
   {
-    "WorkHours": 7.42036702053619,
-    "BreakHours": 2.98339493724511,
-    "Productivity": 56.5621000850916
+    "BreakHoursRatio": 0.43,
+    "Productivity": 76
   },
   {
-    "WorkHours": 4.58305896262461,
-    "BreakHours": 1.59547199583532,
-    "Productivity": 39.8489102188299
+    "BreakHoursRatio": 0.39,
+    "Productivity": 60
   },
   {
-    "WorkHours": 7.69004336019502,
-    "BreakHours": 2.93476591430713,
-    "Productivity": 62.0384305182903
+    "BreakHoursRatio": 0.41,
+    "Productivity": 75
   },
   {
-    "WorkHours": 9.94032310062558,
-    "BreakHours": 1.84080533976351,
-    "Productivity": 95.7157137175208
+    "BreakHoursRatio": 0.26,
+    "Productivity": 62
   },
   {
-    "WorkHours": 4.84050409141914,
-    "BreakHours": 0.748093083354164,
-    "Productivity": 45.2357137407308
+    "BreakHoursRatio": 0.24,
+    "Productivity": 66
   },
   {
-    "WorkHours": 7.10997791418242,
-    "BreakHours": 0.752362692085365,
-    "Productivity": 68.0894744887068
+    "BreakHoursRatio": 0.2,
+    "Productivity": 74
   },
   {
-    "WorkHours": 9.26423843156773,
-    "BreakHours": 2.22559453752701,
-    "Productivity": 79.696350566973
+    "BreakHoursRatio": 0.31,
+    "Productivity": 63
   },
   {
-    "WorkHours": 8.44461170652523,
-    "BreakHours": 2.83711149237209,
-    "Productivity": 69.9758314847865
+    "BreakHoursRatio": 0.38,
+    "Productivity": 75
   },
   {
-    "WorkHours": 8.18209444597161,
-    "BreakHours": 2.10196057374754,
-    "Productivity": 72.8501504354386
+    "BreakHoursRatio": 0.32,
+    "Productivity": 75
   },
   {
-    "WorkHours": 8.21490450392266,
-    "BreakHours": 2.25901633330664,
-    "Productivity": 62.3031214094102
+    "BreakHoursRatio": 0.33,
+    "Productivity": 69
   },
   {
-    "WorkHours": 6.15694690731853,
-    "BreakHours": 2.84243752184723,
-    "Productivity": 40.6163543534206
+    "BreakHoursRatio": 0.47,
+    "Productivity": 60
   },
   {
-    "WorkHours": 5.76155106558696,
-    "BreakHours": 1.37875176940853,
-    "Productivity": 54.4380722789405
+    "BreakHoursRatio": 0.3,
+    "Productivity": 65
   },
   {
-    "WorkHours": 8.85616693287108,
-    "BreakHours": 2.70640738038328,
-    "Productivity": 75.8839596174342
+    "BreakHoursRatio": 0.35,
+    "Productivity": 71
   },
   {
-    "WorkHours": 8.86068036807508,
-    "BreakHours": 3.66354758295884,
-    "Productivity": 69.3691490841932
+    "BreakHoursRatio": 0.44,
+    "Productivity": 78
   },
   {
-    "WorkHours": 9.20243391148062,
-    "BreakHours": 2.37990689010252,
-    "Productivity": 80.2169743296206
+    "BreakHoursRatio": 0.32,
+    "Productivity": 72
   },
   {
-    "WorkHours": 9.47944331533883,
-    "BreakHours": 3.3067585763484,
-    "Productivity": 79.9985487984546
+    "BreakHoursRatio": 0.39,
+    "Productivity": 64
   },
   {
-    "WorkHours": 7.06805439316563,
-    "BreakHours": 3.14489887936218,
-    "Productivity": 52.2572511332986
+    "BreakHoursRatio": 0.46,
+    "Productivity": 72
   },
   {
-    "WorkHours": 7.0090977681232,
-    "BreakHours": 3.36302293043861,
-    "Productivity": 49.3843394020274
+    "BreakHoursRatio": 0.48,
+    "Productivity": 70
   },
   {
-    "WorkHours": 8.78977107380065,
-    "BreakHours": 1.39607399873736,
-    "Productivity": 81.8965670198081
+    "BreakHoursRatio": 0.24,
+    "Productivity": 74
   },
   {
-    "WorkHours": 7.89978358466659,
-    "BreakHours": 3.71791504286905,
-    "Productivity": 55.5163967442455
+    "BreakHoursRatio": 0.48,
+    "Productivity": 62
   },
   {
-    "WorkHours": 8.21180126354622,
-    "BreakHours": 2.43764460528352,
-    "Productivity": 71.971053387617
+    "BreakHoursRatio": 0.35,
+    "Productivity": 74
   },
   {
-    "WorkHours": 8.77475601661661,
-    "BreakHours": 1.78388820165516,
-    "Productivity": 70.315201136701
+    "BreakHoursRatio": 0.28,
+    "Productivity": 70
   },
   {
-    "WorkHours": 9.3400320509054,
-    "BreakHours": 2.64934027668336,
-    "Productivity": 85.2993973122654
+    "BreakHoursRatio": 0.34,
+    "Productivity": 78
   },
   {
-    "WorkHours": 6.02797094110922,
-    "BreakHours": 2.96584024817544,
-    "Productivity": 47.8134955822802
+    "BreakHoursRatio": 0.49,
+    "Productivity": 66
   },
   {
-    "WorkHours": 6.25349771583966,
-    "BreakHours": 1.85758422181025,
-    "Productivity": 54.5272047209148
+    "BreakHoursRatio": 0.35,
+    "Productivity": 72
   },
   {
-    "WorkHours": 4.56389163904521,
-    "BreakHours": 1.05654385411004,
-    "Productivity": 45.2696520396295
+    "BreakHoursRatio": 0.3,
+    "Productivity": 77
   },
   {
-    "WorkHours": 7.46968084597704,
-    "BreakHours": 2.63948897632376,
-    "Productivity": 69.8267358004645
+    "BreakHoursRatio": 0.39,
+    "Productivity": 61
   },
   {
-    "WorkHours": 4.21565364278045,
-    "BreakHours": 0.826513665318067,
-    "Productivity": 43.0958184263048
+    "BreakHoursRatio": 0.27,
+    "Productivity": 77
   },
   {
-    "WorkHours": 6.79358810879476,
-    "BreakHours": 0.885512492372522,
-    "Productivity": 54.3039474694268
+    "BreakHoursRatio": 0.22,
+    "Productivity": 73
   },
   {
-    "WorkHours": 7.25586780824546,
-    "BreakHours": 1.09964047096339,
-    "Productivity": 60.6625908939592
+    "BreakHoursRatio": 0.24,
+    "Productivity": 61
   },
   {
-    "WorkHours": 5.71924751276971,
-    "BreakHours": 0.864855089668871,
-    "Productivity": 49.7441067908743
+    "BreakHoursRatio": 0.24,
+    "Productivity": 65
   },
   {
-    "WorkHours": 7.54499956341407,
-    "BreakHours": 1.21294225883408,
-    "Productivity": 69.5157395910244
+    "BreakHoursRatio": 0.25,
+    "Productivity": 73
   },
   {
-    "WorkHours": 4.1830014996343,
-    "BreakHours": 0.650585858516418,
-    "Productivity": 41.1653808061065
+    "BreakHoursRatio": 0.24,
+    "Productivity": 61
   },
   {
-    "WorkHours": 4.22408913249529,
-    "BreakHours": 1.50525373117511,
-    "Productivity": 31.08590360331
+    "BreakHoursRatio": 0.39,
+    "Productivity": 71
   },
   {
-    "WorkHours": 8.93560336395795,
-    "BreakHours": 1.54364365399338,
-    "Productivity": 82.571649191998
+    "BreakHoursRatio": 0.25,
+    "Productivity": 66
   },
   {
-    "WorkHours": 6.16114384846758,
-    "BreakHours": 1.46799672735368,
-    "Productivity": 50.4945401861407
+    "BreakHoursRatio": 0.3,
+    "Productivity": 71
   },
   {
-    "WorkHours": 4.76236307591131,
-    "BreakHours": 2.18456911168777,
-    "Productivity": 33.6431961857145
+    "BreakHoursRatio": 0.47,
+    "Productivity": 60
   },
   {
-    "WorkHours": 7.13345956032883,
-    "BreakHours": 2.06574043361781,
-    "Productivity": 53.9725879509581
+    "BreakHoursRatio": 0.34,
+    "Productivity": 76
   },
   {
-    "WorkHours": 8.61996131859167,
-    "BreakHours": 3.16372488545028,
-    "Productivity": 65.7648225281107
+    "BreakHoursRatio": 0.4,
+    "Productivity": 78
   },
   {
-    "WorkHours": 5.29492616498106,
-    "BreakHours": 0.894461014406776,
-    "Productivity": 41.7185335496951
+    "BreakHoursRatio": 0.25,
+    "Productivity": 78
   },
   {
-    "WorkHours": 7.737342854914,
-    "BreakHours": 1.36885671179448,
-    "Productivity": 65.649778725281
+    "BreakHoursRatio": 0.26,
+    "Productivity": 74
   },
   {
-    "WorkHours": 4.51208478996261,
-    "BreakHours": 0.52496954373338,
-    "Productivity": 47.7642091639984
+    "BreakHoursRatio": 0.21,
+    "Productivity": 62
   }
 ]
