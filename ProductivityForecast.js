@@ -59,64 +59,74 @@ function run(){
         losses.push(l.dataSync()[0]);
     }
 
-    console.log(`가중치 최적화 결과:`)
-    console.log(`w0: ${w0.dataSync()}`)
-    console.log(`w1: ${w1.dataSync()}`)
-    console.log(`w2: ${w2.dataSync()}`)
-    console.log(`w3: ${w3.dataSync()}`)
-    console.log(`w4: ${w4.dataSync()}`)
+    // console.log(`가중치 최적화 결과:`)
+    // console.log(`w0: ${w0.dataSync()}`)
+    // console.log(`w1: ${w1.dataSync()}`)
+    // console.log(`w2: ${w2.dataSync()}`)
+    // console.log(`w3: ${w3.dataSync()}`)
+    // console.log(`w4: ${w4.dataSync()}`)
 
-    const ctxData = document.getElementById('data');
-    new Chart(ctxData, {
-        type: 'scatter',
-        data: {
-            labels: xs.dataSync(),
-            datasets: [{    
-                label: '키-체중 그래프',
-                data: ys.dataSync(),
-                order: 1
-            },
-            {
-                label: '피팅 라인',
-                data: f_x(xs).dataSync(),
-                order: 0
-            }]
-        }
-    });
+    // const ctxData = document.getElementById('data');
+    // new Chart(ctxData, {
+    //     type: 'scatter',
+    //     data: {
+    //         labels: xs.dataSync(),
+    //         datasets: [{    
+    //             label: '키-체중 그래프',
+    //             data: ys.dataSync(),
+    //             order: 1
+    //         },
+    //         {
+    //             label: '피팅 라인',
+    //             data: f_x(xs).dataSync(),
+    //             order: 0
+    //         }]
+    //     }
+    // });
 
-    const ctxLoss = document.getElementById('loss');
-    new Chart(ctxLoss, {
-        type: 'line',
-        data: {
-            labels: iter,
-            datasets: [{
-                label: '손실 함수',
-                data: losses,
-            }]
-        }
-    });
+    // const ctxLoss = document.getElementById('loss');
+    // new Chart(ctxLoss, {
+    //     type: 'line',
+    //     data: {
+    //         labels: iter,
+    //         datasets: [{
+    //             label: '손실 함수',
+    //             data: losses,
+    //         }]
+    //     }
+    // });
 }
 
 // 결과 계산 부분
-let inputBox = document.getElementById('input');
-let calcButton = document.getElementById('calc');
-let resultText = document.getElementById('result');
+// let inputBox = document.getElementById('input');
+// let calcButton = document.getElementById('calc');
+// let resultText = document.getElementById('result');
 
-calcButton.addEventListener('click', ()=>{
-    let normalizedInput = tf.scalar(Number(inputBox.value)).sub(px.min()).div(px.max().sub(px.min()));     // 입력값을 정규화하기
-    let predictValue = f_x(normalizedInput).mul(py.max().sub(py.min())).add(py.min()).dataSync()[0];       // 출력값의 정규화 풀기
-
-    resultText.innerText = `근무시간과 휴게시간의 비율은 ${inputBox.value}로 예측생산률은 ${predictValue.toFixed(2)}% 입니다.`;
-})
-
-// 결과 계산 부분
-// $('.productivity-button').click(function() {
-
-//     let BreakHoursRatio = restingCount / workingCount;
-
-//     let normalizedInput = tf.scalar(Number(BreakHoursRatio)).sub(px.min()).div(px.max().sub(px.min()));     // 입력값을 정규화하기
+// calcButton.addEventListener('click', ()=>{
+//     let normalizedInput = tf.scalar(Number(inputBox.value)).sub(px.min()).div(px.max().sub(px.min()));     // 입력값을 정규화하기
 //     let predictValue = f_x(normalizedInput).mul(py.max().sub(py.min())).add(py.min()).dataSync()[0];       // 출력값의 정규화 풀기
 
-//     $('.productivity').text(`근무시간과 휴게시간의 비율은${normalizedInput}로 예측생산률은${predictValue.toFixed(2)}% 입니다.`);
+//     resultText.innerText = `근무시간과 휴게시간의 비율은 ${inputBox.value}로 예측생산률은 ${predictValue.toFixed(2)}% 입니다.`;
+// })
+
+// 결과 계산 부분
+$('.productivity-button').click(function() {
+
+    let BreakHoursRatio = restingCount / workingCount;
+
+    let normalizedInput = tf.scalar(Number(BreakHoursRatio)).sub(px.min()).div(px.max().sub(px.min()));     // 입력값을 정규화하기
+    let predictValue = f_x(normalizedInput).mul(py.max().sub(py.min())).add(py.min()).dataSync()[0];       // 출력값의 정규화 풀기
+
+    $('.productivity').text(`현재 근무시간과 휴게시간의 비율은${BreakHoursRatio.toFixed(3)}로 예측생산률은${predictValue.toFixed(2)}% 입니다.`);
+
+    if (restingCount < 1 || workingCount < 0) {
+        $('.productivity').text(`예측 생산률을 판단하기에 데이터가 부족합니다.`);
+    }
     
-// });
+    // Display
+    $('.contents .productivity-frame').css('transform','translateX(0%)');
+
+    setTimeout(() => {
+        $('.contents .productivity-frame').css('transform','translateX(100%)')
+    }, 8000);
+});

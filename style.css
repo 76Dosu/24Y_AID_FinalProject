@@ -24,6 +24,7 @@
     background-color: white;
 
     display: flex;
+    overflow: hidden;
 }
 
     .wrapper .header {
@@ -70,6 +71,7 @@
         border-radius: 20px;
 
         padding:32px 60px;
+        position: relative;
     }
 
         .contents .util {
@@ -143,8 +145,14 @@
                     font-weight: 400;
                     color: white;
                     cursor: pointer;
+                    transition: .3s;
                 }
-                
+                .btn-frame .start-button:hover {
+                    background:white;
+                    border:1px solid #555EB9;
+                    color: #555EB9;
+                }
+
                 .btn-frame .productivity-button {
                     padding:16px 32px;
                     background:white;
@@ -155,6 +163,12 @@
                     font-weight: 400;
                     color:#555EB9;
                     cursor: pointer;
+                    transition: .3s;
+                }
+                .btn-frame .productivity-button:hover {
+                    background:#555EB9;
+                    border:1px solid #555EB9;
+                    color: white;
                 }
 
             .contents .working-hour {
@@ -193,4 +207,24 @@
                             font-weight: 300;
                             color:#333;
                             margin-top: 20px;
-                        }   
+                        }
+        
+            .contents .productivity-frame {
+                position: absolute;
+                background-color: white;
+                top: 20%;
+                right:0%;
+                transform: translateX(100%);
+                padding:24px 32px;
+
+                border:1px solid #555EB9;
+                border-radius:20px 0px 0px 20px;
+                box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.12);
+                transition: 1s;
+            }
+
+                .productivity-frame .productivity {
+                    font-size: 20px;
+                    font-weight: 400;
+                    color:#555EB9;
+                }
