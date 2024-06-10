@@ -72,7 +72,7 @@ function run(){
     //     data: {
     //         labels: xs.dataSync(),
     //         datasets: [{    
-    //             label: '키-체중 그래프',
+    //             label: '생산률 데이터 그래프',
     //             data: ys.dataSync(),
     //             order: 1
     //         },
@@ -119,7 +119,7 @@ $('.productivity-button').click(function() {
 
     $('.productivity').text(`현재 근무시간과 휴게시간의 비율은${BreakHoursRatio.toFixed(3)}로 예측생산률은${predictValue.toFixed(2)}% 입니다.`);
 
-    if (restingCount < 1 || workingCount < 0) {
+    if (restingCount < 1 || workingCount < 1) {
         $('.productivity').text(`예측 생산률을 판단하기에 데이터가 부족합니다.`);
     }
     

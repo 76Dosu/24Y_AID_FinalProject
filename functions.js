@@ -58,7 +58,5 @@ function timeJudgment() {
     if (drinkTime_Per >= 0.99 && isDrinking == false) {
         isDrinking = true;
         drinkCount_Increase();
-
-        console.log(isDrinking)
     }
 }

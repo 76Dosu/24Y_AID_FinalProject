@@ -220,7 +220,7 @@
                 border:1px solid #555EB9;
                 border-radius:20px 0px 0px 20px;
                 box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.12);
-                transition: 1s;
+                transition: .8s;
             }
 
                 .productivity-frame .productivity {
